@@ -1,8 +1,8 @@
 {
   "name": "v14-theme",
   "displayName": "Version 14 Theme",
-  "description": "Dark and light themes for VS Code, inspired by the Version 14 brand palette.",
-  "version": "0.1.0",
+  "description": "A clean dark and light theme for VS Code, built around the Version 14 brand palette — high-contrast accents on deep neutrals.",
+  "version": "0.2.0",
   "publisher": "mathieusouflis",
   "author": "Mathieu Souflis <contact@mathieusouflis.com>",
   "icon": "icon.png",
@@ -10,20 +10,30 @@
   "engines": {
     "vscode": "^1.70.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "keywords": [
     "theme",
     "color-theme",
+    "dark theme",
+    "light theme",
     "version14",
-    "dark",
-    "light"
+    "minimal",
+    "green",
+    "high contrast",
+    "yellow"
   ],
+  "galleryBanner": {
+    "color": "#1A1E23",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/version14/vscode-theme"
   },
+  "bugs": {
+    "url": "https://github.com/version14/vscode-theme/issues"
+  },
+  "homepage": "https://github.com/version14/vscode-theme#readme",
   "contributes": {
     "themes": [
       {
