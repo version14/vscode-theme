@@ -7,6 +7,7 @@ A clean dark and light theme for Visual Studio Code, built around the **Version 
 | Variant | Description |
 |---|---|
 | **Version 14 Dark** | Deep dark backgrounds with a signature lime-green accent (`#D2FF3A`) |
+| **Version 14 Black** | Pure black backgrounds (`#000000`) with the same lime-green accent — ideal for OLED displays |
 | **Version 14 Light** | Bright neutral surfaces with an olive-green accent (`#4E6600`) |
 
 ## Installation
@@ -15,7 +16,7 @@ A clean dark and light theme for Visual Studio Code, built around the **Version 
 2. Search for **Version 14 Theme**
 3. Click **Install**
 4. Open the Command Palette (`Cmd+Shift+P`) → **Preferences: Color Theme**
-5. Select **Version 14 Dark** or **Version 14 Light**
+5. Select **Version 14 Dark**, **Version 14 Black**, or **Version 14 Light**
 
 ## Color Palette
 
@@ -25,6 +26,21 @@ A clean dark and light theme for Visual Studio Code, built around the **Version 
 |---|---|
 | Background | `#1A1E23` |
 | Editor | `#14171B` |
+| Accent | `#D2FF3A` |
+| Functions | `#D2FF3A` |
+| Keywords | `#B8E625` |
+| Strings | `#4ADE80` |
+| Types | `#6FB1FF` |
+| Constants | `#FFB347` |
+| Errors | `#FF5C5C` |
+| Comments | `#6E737A` |
+
+### Black
+
+| Role | Color |
+|---|---|
+| Background | `#0D0D0D` |
+| Editor | `#000000` |
 | Accent | `#D2FF3A` |
 | Functions | `#D2FF3A` |
 | Keywords | `#B8E625` |
@@ -49,9 +65,10 @@ A clean dark and light theme for Visual Studio Code, built around the **Version 
 | Errors | `#B91C1C` |
 | Comments | `#636870` |
 
-## Also available for Zed
+## Also available for Zed and Neovim
 
-The same palette is available as a [Zed extension](https://github.com/version14/zed-theme).
+- [Zed extension](https://github.com/version14/zed-theme)
+- [Neovim/Vim plugin](https://github.com/version14/version14.vim)
 
 ## License
 
