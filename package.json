@@ -42,6 +42,11 @@
         "path": "./themes/version14-dark-color-theme.json"
       },
       {
+        "label": "Version 14 Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/version14-black-color-theme.json"
+      },
+      {
         "label": "Version 14 Light",
         "uiTheme": "vs",
         "path": "./themes/version14-light-color-theme.json"
