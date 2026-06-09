@@ -2,7 +2,7 @@
   "name": "v14-theme",
   "displayName": "Version 14 Theme",
   "description": "A clean dark and light theme for VS Code, built around the Version 14 brand palette — high-contrast accents on deep neutrals.",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "publisher": "mathieusouflis",
   "author": "Mathieu Souflis <contact@mathieusouflis.com>",
   "icon": "icon.png",
