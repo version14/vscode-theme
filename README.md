@@ -1,24 +1,23 @@
 # Version 14 Theme
 
-A clean dark and light theme for Visual Studio Code, built around the **Version 14** brand palette — high-contrast accents on deep neutrals.
+A dark and light theme for Visual Studio Code, built around the Version 14 brand palette: high contrast accents on deep neutrals.
 
-> **v0.4.0 note:** this release replaces the previous signature lime-green accent (`#D2FF3A`) with a violet hue and applies the same contrast regrade shipped in [`version14/zed-theme`](https://github.com/version14/zed-theme) v0.4.1. The violet accent is a **placeholder**, not final — it will change again in a future release once a permanent replacement hue is chosen.
+> The violet accent is a placeholder hue. It replaces a retired lime green accent and will change again once a permanent hue is chosen. It matches the contrast regrade shipped in [`version14/zed-theme`](https://github.com/version14/zed-theme) v0.4.1.
 
 ## Variants
 
 | Variant | Description |
 |---|---|
-| **Version 14 Dark** | Deep dark backgrounds with a placeholder violet accent (`#B7A2FF`) |
-| **Version 14 Black** | Pure black backgrounds (`#000000`) with the same violet accent — ideal for OLED displays |
-| **Version 14 Light** | Bright neutral surfaces with a deep violet accent (`#5F3BBB`) |
+| **Version 14 Dark** | Deep dark backgrounds with a violet accent (`#B7A2FF`) |
+| **Version 14 Black** | Pure black backgrounds (`#000000`) with the same violet accent, for OLED displays |
+| **Version 14 Light** | Bright neutral surfaces with a violet accent (`#5F3BBB`) |
 
 ## Installation
 
-1. Open the **Extensions** panel (`Cmd+Shift+X` / `Ctrl+Shift+X`)
-2. Search for **Version 14 Theme**
-3. Click **Install**
-4. Open the Command Palette (`Cmd+Shift+P`) → **Preferences: Color Theme**
-5. Select **Version 14 Dark**, **Version 14 Black**, or **Version 14 Light**
+1. Open the **Extensions** panel (`Cmd+Shift+X` / `Ctrl+Shift+X`).
+2. Search for **Version 14 Theme** and click **Install**.
+3. Open the Command Palette (`Cmd+Shift+P`) and run **Preferences: Color Theme**.
+4. Select **Version 14 Dark**, **Version 14 Black**, or **Version 14 Light**.
 
 ## Color Palette
 
@@ -67,14 +66,15 @@ A clean dark and light theme for Visual Studio Code, built around the **Version 
 | Errors | `#B91A25` |
 | Comments | `#787E86` |
 
-## Also available for Zed, Neovim/Vim, Ghostty, Starship, gh-dash, and Atuin
+## Also available for
 
-- [Zed extension](https://github.com/version14/zed-theme)
-- [Neovim/Vim plugin](https://github.com/version14/nvim-theme)
-- [Ghostty theme](https://github.com/version14/ghostty-theme)
-- [Starship palette](https://github.com/version14/starship-theme)
-- [gh-dash theme](https://github.com/version14/gh-dash-theme)
-- [Atuin theme](https://github.com/version14/atuin-theme)
+- [Zed](https://github.com/version14/zed-theme)
+- [Neovim](https://github.com/version14/nvim-theme)
+- [Vim](https://github.com/version14/vim-theme)
+- [Ghostty](https://github.com/version14/ghostty-theme)
+- [Starship](https://github.com/version14/starship-theme)
+- [gh-dash](https://github.com/version14/gh-dash-theme)
+- [Atuin](https://github.com/version14/atuin-theme)
 
 ## License
 
