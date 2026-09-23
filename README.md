@@ -2,6 +2,10 @@
 
 A dark and light theme for Visual Studio Code, built around the Version 14 brand palette: high contrast accents on deep neutrals.
 
+## Palette source
+
+The shared semantic colors are maintained in [version14/tokens](https://github.com/version14/tokens). This repository keeps VS Code-native generated files.
+
 > The violet accent is a placeholder hue. It replaces a retired lime green accent and will change again once a permanent hue is chosen. It matches the contrast regrade shipped in [`version14/zed-theme`](https://github.com/version14/zed-theme) v0.4.1.
 
 ## Variants
